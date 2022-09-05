@@ -1,7 +1,7 @@
 Hi 👋 My name is Ethan Baranowski
 =================================
 
-Software / Web Developer
+Software Developer / Personal Repo
 ------------------------
 
 Determined Applied Computer Science major at Northern Arizona University. I am a hardworking, dedicated individual who is committed to my work. I have found success when working individually and collaboratively in programming/problem-solving environments.
