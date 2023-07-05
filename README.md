@@ -7,7 +7,7 @@ Software Developer / Personal Repo
 Determined Applied Computer Science major at Northern Arizona University. I am a hardworking, dedicated individual who is committed to my work. I have found success when working individually and collaboratively in programming/problem-solving environments.
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [ecb266@nau.edu](mailto:ecb266@nau.edu)
+* ✉️  You can contact me at [ebaran.development@gmail.com](mailto:ebaran.development@gmail.com)
 * 🧠  I'm learning NextJS
 
 ### Skills
