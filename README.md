@@ -1,10 +1,10 @@
-Hi 👋 My name is Ethan Baranowski
+#Hi 👋 My name is Ethan Baranowski
 =================================
 
-IT Analyst, Programmer, Technology Enthusiast / Personal README
+##IT Analyst, Programmer, Technology Enthusiast
 ------------------------
 
-I am an IT Analyst by profession, specializing in various aspects of information technology. With a strong foundation in Applied Computer Science, I bring a unique blend of technical expertise and analytical skills to my work.
+##I am an IT Analyst by profession, specializing in various aspects of information technology. With a strong foundation in Applied Computer Science, I bring a unique blend of technical expertise and analytical skills to my work.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ebaran.development@gmail.com](mailto:ebaran.development@gmail.com)
@@ -31,16 +31,8 @@ I am an IT Analyst by profession, specializing in various aspects of information
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ethan-baranowski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ethan-baranowski"><img src="https://github-readme-stats.vercel.app/api?username=ethan-baranowski&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ethan-baranowski's GitHub stats" /></a>
-
-<a href="https://github.com/ethan-baranowski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-baranowski&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
