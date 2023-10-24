@@ -1,10 +1,10 @@
-#Hi 👋 My name is Ethan Baranowski
+# Hi 👋 My name is Ethan Baranowski
 =================================
 
-##IT Analyst, Programmer, Technology Enthusiast
+# #IT Analyst, Programmer, Technology Enthusiast
 ------------------------
 
-##I am an IT Analyst by profession, specializing in various aspects of information technology. With a strong foundation in Applied Computer Science, I bring a unique blend of technical expertise and analytical skills to my work.
+## I am an IT Analyst by profession, specializing in various aspects of information technology. With a strong foundation in Applied Computer Science, I bring a unique blend of technical expertise and analytical skills to my work.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ebaran.development@gmail.com](mailto:ebaran.development@gmail.com)
